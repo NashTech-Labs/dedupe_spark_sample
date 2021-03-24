@@ -1,0 +1,12 @@
+*.class
+*.log
+/.idea
+/project/target
+/project/project
+/target
+/modules/*/target
+/src/main/resources/checkpoints
+/src/main/resources/c1
+/.bsp
+*.xml
+*.cache
